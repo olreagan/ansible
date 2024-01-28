@@ -1,2 +1,2 @@
 # ansible
-ansible training
+ansible training for linux.
